@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/aUmGrDZ.png) <br>
+![Imgur](https://i.imgur.com/e44ML8S.png) <br>
 
 # SlimeVR Tracker Labels
 
@@ -11,7 +11,7 @@ There are several variations of labels available:
 
 Example of the main differences between borders and SlimeVR logo:
 
-![Comparison](https://i.imgur.com/6q6HHVJ.png) <br>
+![Comparison](https://i.imgur.com/FKmyzWK.png) <br>
 
 
 ## Printing and Usage
