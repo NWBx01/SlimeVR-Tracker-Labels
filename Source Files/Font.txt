@@ -1,0 +1,6 @@
+The font used is:
+UD Digi Kyokasho NP-B Bold
+
+Size is 45.
+
+I created the text layers in GIMP, but exported to .PSD, not realizing that a .PSD wouldn't preserve the ability to edit the text layers.
